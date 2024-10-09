@@ -1,0 +1,11 @@
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.Exceptions.dll
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.Exceptions.pdb
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.Businesslayer.dll
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.entity.dll
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.Businesslayer.pdb
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\bin\Debug\TechShop.entity.pdb
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\obj\Debug\TechShop.Exceptions.csproj.AssemblyReference.cache
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\obj\Debug\TechShop.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\obj\Debug\TechShop.953686C4.Up2Date
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\obj\Debug\TechShop.Exceptions.dll
+C:\Users\srike\source\repos\TechShop.Exceptions\TechShop.Exceptions\obj\Debug\TechShop.Exceptions.pdb
