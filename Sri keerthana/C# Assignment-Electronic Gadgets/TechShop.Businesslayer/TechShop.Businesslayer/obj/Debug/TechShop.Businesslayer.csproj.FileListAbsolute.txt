@@ -1,9 +1,0 @@
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\bin\Debug\TechShop.Businesslayer.dll
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\bin\Debug\TechShop.Businesslayer.pdb
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\bin\Debug\TechShop.entity.dll
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\bin\Debug\TechShop.entity.pdb
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\obj\Debug\TechShop.Businesslayer.csproj.AssemblyReference.cache
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\obj\Debug\TechShop.Businesslayer.csproj.CoreCompileInputs.cache
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\obj\Debug\TechShop.F111DFC2.Up2Date
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\obj\Debug\TechShop.Businesslayer.dll
-C:\Users\srike\source\repos\TechShop.Businesslayer\TechShop.Businesslayer\obj\Debug\TechShop.Businesslayer.pdb
