@@ -1,2 +1,0 @@
-C:\Users\srike\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.csproj.AssemblyReference.cache
-C:\Users\srike\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.csproj.CoreCompileInputs.cache
