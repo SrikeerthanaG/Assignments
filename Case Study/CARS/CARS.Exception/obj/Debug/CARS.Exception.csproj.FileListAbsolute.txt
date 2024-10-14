@@ -1,0 +1,6 @@
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\bin\Debug\CARS.Exception.dll
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\bin\Debug\CARS.Exception.pdb
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\obj\Debug\CARS.Exception.csproj.AssemblyReference.cache
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\obj\Debug\CARS.Exception.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\obj\Debug\CARS.Exception.dll
+C:\Users\srike\source\repos\CARS.Businesslayer\CARS.Exception\obj\Debug\CARS.Exception.pdb
